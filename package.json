@@ -1,6 +1,6 @@
 {
   "name": "oh-snap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Snap points to the nearest point in a GeoJSON collection of points.",
   "main": "index.js",
   "scripts": {

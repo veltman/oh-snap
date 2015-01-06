@@ -27,7 +27,7 @@ Let's say you have a GeoJSON collection of points where car crashes happened, an
 
 ```js
 
-var snap = require("./index.js");
+var snap = require("oh-snap");
 
 //crashes is a GeoJSON FeatureCollection of points
 //intersections is another GeoJSON FeatureCollection of points
